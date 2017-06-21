@@ -34,5 +34,8 @@
   "scripts": {
     "test": "mocha --ui qunit --reporter spec",
     "start": "./bin/server"
+  },
+  "engines": {
+    "node": 8
   }
 }
